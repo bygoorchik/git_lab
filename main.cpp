@@ -1,6 +1,10 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, Git!" << std::endl;
+    int a, b;
+    std::cout << "Введите первое число: ";
+    std::cin >> a;
+    std::cout << "Введите второе число: ";
+    std::cin >> b;
     return 0;
 }

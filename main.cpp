@@ -6,6 +6,6 @@ int main() {
     std::cin >> a;
     std::cout << "Введите второе число: ";
     std::cin >> b;
-    std::cout << "Сумма: " << a + b << std::endl;
+    std::cout << "Разность: " << a - b << std::endl;
     return 0;
 }
